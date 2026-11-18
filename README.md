@@ -59,7 +59,6 @@ src/
 ```
 
 ## Screenshot
-> Ganti gambar di bawah dengan screenshot dari aplikasi yang sudah dijalankan (simpan di folder `screenshots/`).
 
 ### Daftar Tugas
 ![Daftar](screenshots/list.png)
